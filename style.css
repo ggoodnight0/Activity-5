@@ -1,0 +1,18 @@
+/* style.css */
+
+.time-block.past .description {
+    background-color:lightgray;
+  }
+  
+  .time-block.present .description {
+    background-color:red;
+  }
+  
+  .time-block.future .description {
+    background-color:green;
+  }
+
+  .saveBtn {
+    background-color:aqua;
+    color:white
+  }
